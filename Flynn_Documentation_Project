@@ -1,0 +1,44 @@
+Flynn Documentation Project
+
+
+GOALS
+
+Create an initial documentation of the Flynn product
+Write some tutorial materials, getting started etc
+Develop the basis for multilingual contributions from open source project participants
+Deliver the documentation in sync with the initial Flynn release 
+
+
+BACKGROUND
+
+Flynn is an open source project that develops a Platform as a Service product. As many software developers embrace agile development methodologies and cloud deployment infrastructures, the opportunity to release functionality rapidly often creates resource bottlenecks between conventional IT and product development. Flynn is a product designed to remove the bottlenecks and automate the delivery.  Designed to simplify running many services at scale, Flynn supports numerous services including databases. Flynn supports product delivery and IT operations by simplifying deployment and application scaling.
+
+
+RESOURCES
+
+The Flynn Documentation team will use the following resources:
+raml  (http://raml.org/)
+Github  (https://github.com/)
+Google Docs (https://docs.google.com/)
+Sketch3 (http://bohemiancoding.com/sketch/)
+IRC
+
+
+TEAM
+
+Johanna Santos Bassetti is a product manager and creative director with experience in early stage startups. She is based in Berlin, Germany. 
+johanna.ssb@gmail.com
+skype: johannasophiesantosbassetti
+
+Thomas Aidan Curran  is an independent software developer, investor and advisor to numerous Internet companies. He is based in Berlin, Germany.
+thomasaidancurran@gmail.com 
+skype: thomasaidancurran
+
+
+TIMELINE
+
+The timeline for this effort is as follows
+June -- basics and tutorial
+July  -- developer guide, Flynn rationale to be elaborated in parallel 
+end of August -- production release milestone
+
